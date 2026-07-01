@@ -1,4 +1,5 @@
 <table>
+  <h1>Gabriel Araújo</h1>
   <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/fbe87609-f7bf-41e8-9340-0bdeddf98499"" width="100%" alt="Pixel art de programadores" />
