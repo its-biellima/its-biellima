@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="URL_DA_SUA_IMAGEM_OU_GIF" width="100%" alt="Pixel art de programadores" />
+      <img src="https://github.com/user-attachments/assets/fbe87609-f7bf-41e8-9340-0bdeddf98499"" width="100%" alt="Pixel art de programadores" />
     </td>
     <td width="50%" valign="top">
       <h3>about me:</h3>
