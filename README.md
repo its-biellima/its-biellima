@@ -6,7 +6,6 @@
     </td>
     <td width="50%" valign="top">
       <h3>about me:</h3>
-      <p><strong>Software Engineer</strong></p>
       <p>
   Web Developer focused on building modern, fast and responsive websites and web applications.
   I enjoy building stuff. Whether it's a landing page, a small business website, or a full web application, I like working on solutions.
