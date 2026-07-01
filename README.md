@@ -8,9 +8,9 @@
       <p><strong>Software Engineer</strong></p>
       <p>
   Web Developer focused on building modern, fast and responsive websites and web applications.
-  I enjoy turning ideas into real products that people can actually use. Whether it's a landing page, a small business website, or a full web application, I like working on solutions.
+  I enjoy building stuff. Whether it's a landing page, a small business website, or a full web application, I like working on solutions.
   I’m constantly improving my skills and learning new technologies to build better and more efficient web experiences.
-  Right now, I’m focused on frontend and backend development using modern JavaScript tools, and I’m always open to freelance work and collaborations.
+  Right now, I’m focused on Full Stack development using modern JavaScript tools, and I’m always open to freelance work and collaborations.
       </p>
       
   <p>
